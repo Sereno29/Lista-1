@@ -1,0 +1,2 @@
+Comando para gerar um executável para o valgrind: gcc -o exc <programa2>.c <programa3>.c
+Comando para checar se houve vazamento de memória em um exxecutável: valgrind --leak-check=full -v ./your_program

@@ -1,0 +1,3 @@
+2) Quais as vantagens de se programar com TADs?
+
+Dentre as inúmeras vantagens de se programar utilizando TADs pode-se citar segurança, flexibilidade, reutilização e encapsulamento. Segurança já que o usuário não possui acesso direto aos dados, evitando a manipulação de dados de forma equivocada. Flexibilidade uma vez que pode-se alterar o TAD sem que se alterem as aplicações utilizadas por ele. Reutilização e portabilidade pois a implementação é modularizada. E por fim, o encapsulamento que, como já foi dito anteriormente, faz com que o usuário só se preocupe em como usar as operações do TAD e não em como elas foram feitas ou implementadas.

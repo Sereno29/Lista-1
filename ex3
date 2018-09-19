@@ -1,0 +1,3 @@
+3)Considere um programa que simule uma calculadore e realize operações de soma, subtração, divisão e multiplicação de números reais. Defina textualmente as operações do TAD para este programa apresentando as condições de entrada e de saída de dados para que as operações possam ser realizadas.
+
+Todas as operações deste programa teriam como entrada dois valores do tipo real os quais poderiam ser passados tanto por referência como por valor. Além disso, todas retornariam um elemento do tipo real. A diferença estaria na implementação de cada operação no fato de cada uma usar um operador matemático distinto nos dois números reais fornecidos e retornando a soma, subtração, multiplicação ou divisão.

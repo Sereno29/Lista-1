@@ -1,0 +1,3 @@
+1) O que é um tipo abstrato de dados (TAD) e qual a característica fundamental na sua utilização?
+
+Um tipo abstrato de dados (TAD) é um conjunto de dados estruturados e as operações que podem ser efetuadas sobre esses dados. A característica fundamental na utilização de um TAD seria o encapsulamento, ou seja, o TAD é como se fosse uma caixa-preta para o usuário que o está utilizando. Com isso, sua implementação está desvinculada de sua utilização, isto é, se está preocupado em o quê o TAD faz e com o quê (dados, argumentos), invés de como o TAD faz algo.
